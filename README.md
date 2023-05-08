@@ -14,6 +14,9 @@ The link provided leads to an interactive web map created using the ArcGIS platf
 The heat index is visualized on the map using a color gradient, with areas of higher walkability shown in darker shades of green and areas of lower walkability shown in lighter shades of green or yellow.
 
 # HTML Presentation
+
+![detroit_header](https://user-images.githubusercontent.com/52866379/236734109-2fd0e72b-5f8c-462a-aec5-9194eff34ebb.png)
+
 Using the information gathered from this project, we created an HTML report that summarizes our findings and provides specific recommendations for improving pedestrian infrastructure in the city. The report can be accessed at http://htmlpreview.github.io/?https://github.com/CLizardi/walkability_project/blob/main/Walkability%20Project/walk.html. This report showcases how the tools used in this project can be beneficial to the city of Detroit by providing valuable insights into pedestrian infrastructure and potential areas for improvement. By investing in walkability, Detroit can become a safer, more attractive, and more accessible city for all residents and visitors.
 
 # Conclusion
