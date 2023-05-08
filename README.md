@@ -8,7 +8,6 @@ The tools used in this walkability project can be beneficial to the City of Detr
 
 ![map](https://user-images.githubusercontent.com/52866379/236731373-a2cb7ebc-6518-4303-998d-32e2e3955817.png)
 
-
 [This link](https://www.arcgis.com/home/webmap/viewer.html?webmap=5e2f81dcd722412d92eebac112909325&extent=-83.39,42.2444,-82.8259,42.4805) provided leads to an interactive web map created using the ArcGIS platform. The map shows the city of Detroit, Michigan and its walkability heat index, which is a measure of the walkability of different areas of the city. The heat index is based on a variety of factors, such as the presence and quality of sidewalks, the availability of crosswalks, and the proximity of amenities such as shops, restaurants, and public transportation.
 
 The heat index is visualized on the map using a color gradient, with areas of higher walkability shown in darker shades of green and areas of lower walkability shown in lighter shades of green or yellow.
