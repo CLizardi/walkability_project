@@ -1,3 +1,5 @@
+![doug-zuba-6Yp99zMrsAI-unsplash](https://user-images.githubusercontent.com/52866379/236731901-cefaec00-311a-4096-9be3-e1beb24b99cb.jpg)
+
 # Introduction:
 Detroit, the largest city in Michigan, has a population of over 670,000 people and is known as the automotive capital of the world. The city has a rich history, including being a hub for music and culture, but has also faced challenges such as urban decay and crime. One potential solution to these challenges is improving walkability in the city, which can make it safer, more attractive, and more accessible for residents and visitors alike. The walkability project presented on this GitHub page aims to analyze and visualize walkability in Detroit and provide recommendations for improving pedestrian infrastructure in the city. The project uses a variety of tools, including Python, Pandas, ArcGIS, HTML, CSS, and JS, to clean, process, analyze, and visualize data related to walkability in Detroit.
 
